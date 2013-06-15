@@ -1,0 +1,17 @@
+Package: com.matchstic.RAMStats
+Name: RAMStats
+Version: 1.0
+Description: A small library for grabbing RAM statistics for HTML/JS widgets. Outputted .txt file is at /var/mobile/Library/RAMStats.txt, and settings are in /var/mobile/Library/Preferences/RAMStats-prefs.plist
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke (Matchstic)
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
